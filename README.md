@@ -24,5 +24,6 @@
 * Data: contains DPA training and test datasets as well as a smaller filtered dataset to test with higher inference speed.
 * Paper: contains the list of papers reviewed throughout the program.
 * Checkpoint: The link for fine-tuned Mixtral model
+* Our Demo presentation is provided at: https://uottawa-ca.zoom.us/rec/share/Z57t_Hg6CG9G2aCUq13oGP_cGnsJfP9iVNaD7etVX9LQp--CxRsKiK9QJW9heTQn.B87bQzUg5De1BKCv
 
 
